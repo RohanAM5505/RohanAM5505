@@ -32,7 +32,6 @@ A smart platform to help users report and find lost items.
 https://lostlink-03c3.onrender.com/index.html
 
 
---
 
 ## 🎯 What I’m Currently Exploring
 
