@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Rohan A M!
 
 Welcome to my GitHub profile!  
-I'm a **Full Stack Developer** and **AI–Tech enthusiast** passionate about building efficient, user-friendly, and impactful software solutions that combine innovation with real-world purpose.
+I'm a **Full Stack Developer**  passionate about building efficient, user-friendly, and impactful software solutions that combine innovation with real-world purpose.
 
 ---
 
