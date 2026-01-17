@@ -53,14 +53,4 @@ Always open to collaboration, learning, and building projects that create real-w
 
 
 
-## 📊 GitHub Statistics
-
-
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAM5505&layout=compact&theme=tokyonight&v=1)
-
-
-
 
